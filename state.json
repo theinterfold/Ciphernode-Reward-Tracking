@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-16T22:21:29.682Z",
-  "headBlock": "26430538",
+  "generatedAt": "2026-11-17T06:30:32.263Z",
+  "headBlock": "26432977",
   "program": {
     "id": "IPP-001",
     "name": "Initial Ciphernode Rewards Program",
@@ -1469,16 +1469,6 @@
       "active": true
     },
     {
-      "node": "0x15de07b6280ae5f5d37f6d77df88c37875ef2877",
-      "operator": "0x325409632bccffac706d378a2eca57cafa21ab11",
-      "ens": null,
-      "ticketBalanceWei": "8000000000000000000000",
-      "tickets": 8,
-      "bondWei": "32000000000000000000000",
-      "banned": false,
-      "active": true
-    },
-    {
       "node": "0x980aaa907e51a4e3cc89b8ff8e37aa0d55d46597",
       "operator": "0x34aa3f359a9d614239015126635ce7732c18fdf3",
       "ens": "austingriffith.eth",
@@ -1539,6 +1529,16 @@
       "active": true
     },
     {
+      "node": "0xd333232f08d6a8a4f7cee8327476dbedddf20554",
+      "operator": "0x42c8bc48b0d63aeb2e629f5aa2fafac7b5749e78",
+      "ens": null,
+      "ticketBalanceWei": "6000000000000000000000",
+      "tickets": 6,
+      "bondWei": "32000000000000000000000",
+      "banned": false,
+      "active": true
+    },
+    {
       "node": "0xc4a926a4b8bf90a4858971ebab15095d32698871",
       "operator": "0x46c6b0c1a4f51699d4c2af4abc5a7b25432a097f",
       "ens": null,
@@ -1569,37 +1569,7 @@
       "active": true
     },
     {
-      "node": "0x60cd23981430e4909957ea1fb214e9a21468175a",
-      "operator": "0x6f9bb7e454f5b3eb2310343f0e99269dc2bb8a1d",
-      "ens": "cp0x.eth",
-      "ticketBalanceWei": "2000000000000000000000",
-      "tickets": 2,
-      "bondWei": "32000000000000000000000",
-      "banned": false,
-      "active": true
-    },
-    {
       "node": "0x73f8511492fe99b1d3b230b1015e22db53daa9a1",
-      "operator": "0x6f9bb7e454f5b3eb2310343f0e99269dc2bb8a1d",
-      "ens": "cp0x.eth",
-      "ticketBalanceWei": "2000000000000000000000",
-      "tickets": 2,
-      "bondWei": "32000000000000000000000",
-      "banned": false,
-      "active": true
-    },
-    {
-      "node": "0x29a540e858500fd6ee2b68ee63769b0bb0a05cf4",
-      "operator": "0x6f9bb7e454f5b3eb2310343f0e99269dc2bb8a1d",
-      "ens": "cp0x.eth",
-      "ticketBalanceWei": "2000000000000000000000",
-      "tickets": 2,
-      "bondWei": "32000000000000000000000",
-      "banned": false,
-      "active": true
-    },
-    {
-      "node": "0x3dedb602a8997b89685803dff207566c9883fe0f",
       "operator": "0x6f9bb7e454f5b3eb2310343f0e99269dc2bb8a1d",
       "ens": "cp0x.eth",
       "ticketBalanceWei": "2000000000000000000000",
@@ -1824,16 +1794,6 @@
       "ens": null,
       "ticketBalanceWei": "8000000000000000000000",
       "tickets": 8,
-      "bondWei": "32000000000000000000000",
-      "banned": false,
-      "active": true
-    },
-    {
-      "node": "0xd333232f08d6a8a4f7cee8327476dbedddf20554",
-      "operator": "0xe1679c04371a0341b08347ede683d0377997c468",
-      "ens": null,
-      "ticketBalanceWei": "6000000000000000000000",
-      "tickets": 6,
       "bondWei": "32000000000000000000000",
       "banned": false,
       "active": true
