@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-22T14:21:42.366Z",
-  "headBlock": "26471214",
+  "generatedAt": "2026-11-22T22:21:28.263Z",
+  "headBlock": "26473607",
   "program": {
     "id": "IPP-001",
     "name": "Initial Ciphernode Rewards Program",
