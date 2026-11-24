@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-24T06:31:57.998Z",
-  "headBlock": "26483230",
+  "generatedAt": "2026-11-24T14:23:20.319Z",
+  "headBlock": "26485582",
   "program": {
     "id": "IPP-001",
     "name": "Initial Ciphernode Rewards Program",
@@ -1522,8 +1522,8 @@
       "node": "0x516c12b6d622a62166bde3580628d6d23ae5b310",
       "operator": "0x407c88f8d1a951da8b7889a140f6181ed88ebf8c",
       "ens": null,
-      "ticketBalanceWei": "8000000000000000000000",
-      "tickets": 8,
+      "ticketBalanceWei": "1000000000000000000000",
+      "tickets": 1,
       "bondWei": "32000000000000000000000",
       "banned": false,
       "active": true
